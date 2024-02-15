@@ -1,0 +1,15 @@
+ERROR 10:01:37 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:04:51 Cannot insert the value NULL into column 'UserID', table 'MainAssessmentAshish.dbo.Conferences'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 10:09:15 Cannot insert the value NULL into column 'UserID', table 'MainAssessmentAshish.dbo.Conferences'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 10:09:28 Cannot insert explicit value for identity column in table 'Conferences' when IDENTITY_INSERT is set to OFF.
+ERROR 10:09:42 Cannot insert the value NULL into column 'UserID', table 'MainAssessmentAshish.dbo.Conferences'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 10:12:01 Cannot insert the value NULL into column 'UserID', table 'MainAssessmentAshish.dbo.Conferences'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 10:17:47 Cannot insert the value NULL into column 'UserID', table 'MainAssessmentAshish.dbo.Conferences'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+ERROR 10:21:32 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:21:44 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:22:03 An error occurred while saving the entity changes. See the inner exception for details.
